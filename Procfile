@@ -1,1 +1,1 @@
-web: java -jar libs/poker-server.jar -p $PORT
+web: java -jar lib/pokerserver.jar
